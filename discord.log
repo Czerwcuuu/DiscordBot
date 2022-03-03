@@ -1,6 +1,0 @@
-2022-03-03 22:38:11,215:WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
-2022-03-03 22:38:11,216:DEBUG:discord.client:on_ready has successfully been registered as an event
-2022-03-03 22:38:11,216:INFO:discord.client:logging in using static token
-2022-03-03 22:38:11,449:DEBUG:discord.http:GET https://discord.com/api/v7/users/@me with None has returned 401
-2022-03-03 22:38:11,450:INFO:discord.client:Cleaning up tasks.
-2022-03-03 22:38:11,450:INFO:discord.client:Closing the event loop.
